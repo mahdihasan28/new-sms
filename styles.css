@@ -30,9 +30,8 @@ main {
   align-items: center;
   gap: 20px;
   padding: 20px;
-  position: absolute;
-  top: 80px;
-  
+  align-items: flex-start;
+  margin-top: 80px;
 }
 
 .card {
